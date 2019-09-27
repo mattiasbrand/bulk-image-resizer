@@ -1,4 +1,5 @@
-# Bulk image resizer
+
+# Bulk image resizer [![Build Status](https://travis-ci.com/mattiasbrand/bulk-image-resizer.svg?branch=master)](https://travis-ci.org/image-rs/image)
 
 ## Usage
 
